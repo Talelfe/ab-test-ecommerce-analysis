@@ -3,7 +3,7 @@
 
 📈 **AB Test Analysis · Ecommerce Optimization · Data Science · Python · Statistical Testing**
 
-![AB Test Ecommerce Analysis](Imagenes\Imagen 1.png)
+![AB Test Ecommerce Analysis](https://github.com/Talelfe/ab-test-ecommerce-analysis/blob/master/Imagenes/Imagen%201.png)
 
 💡 **Descripción del Proyecto**
 
